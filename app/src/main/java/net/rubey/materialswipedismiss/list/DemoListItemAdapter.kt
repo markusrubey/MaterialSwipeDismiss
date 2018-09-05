@@ -5,7 +5,7 @@ import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import net.rubey.materialswipedismiss.R
-import net.rubey.materialswipedismiss.SwipeDismissListener
+import net.rubey.materialswipedismiss.lib.SwipeDismissListener
 
 class DemoListItemAdapter : ListAdapter<DemoListItem,
         RecyclerView.ViewHolder>(DemoListItemCallback()), SwipeDismissListener {

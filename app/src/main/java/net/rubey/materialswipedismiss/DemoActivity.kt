@@ -7,6 +7,8 @@ import android.support.v7.widget.helper.ItemTouchHelper
 import android.support.v7.widget.helper.ItemTouchHelper.END
 import android.support.v7.widget.helper.ItemTouchHelper.START
 import kotlinx.android.synthetic.main.demo_activity.*
+import net.rubey.materialswipedismiss.lib.SwipeDismissStyle
+import net.rubey.materialswipedismiss.lib.SwipeDismissTouchHelperCallback
 import net.rubey.materialswipedismiss.list.DemoListItem
 import net.rubey.materialswipedismiss.list.DemoListItemAdapter
 

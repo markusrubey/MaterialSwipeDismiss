@@ -1,4 +1,4 @@
-package net.rubey.materialswipedismiss
+package net.rubey.materialswipedismiss.lib
 
 import android.graphics.drawable.Drawable
 
